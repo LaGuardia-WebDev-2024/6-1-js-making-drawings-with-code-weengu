@@ -12,8 +12,9 @@ void draw(){
 
   //💡⬇️⬇️⬇️💡 Your Code For This Unit Goes Here
   ellipse(50,50,100,80);
-  
-
+    ellipse(150,50,100,80);
+    ellipse(10,10,20,20);
+        ellipse(300,50,300,10);
 }
 
 //🟡Extra FUN Features Ms. Hall Added
